@@ -60,7 +60,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
     [params.awards]
-        enable = true
+        enable = false
 
         [[params.awards.list]]
         name = "Professional Scrum Master™ I"
@@ -101,7 +101,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "Bavaria"
         details = "Sales, program manager"
         [[params.experience.list.items]]
-        details = "Trying to be awesome"
+        details = "Excelence in Solar equipment"
 
 
 
@@ -116,14 +116,14 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
     [params.information]
-        enable = false
+        enable = true
 
         [[params.information.list]]
-        title = "Papers"
+        title = "Thesis"
         [[params.information.list.items]]
-        details = "none"
+        details = "5G"
         [[params.information.list.items]]
-        details = "none"
+        details = "Connecting Greek motorways via 5G"
 
         [[params.information.list]]
         title = "Interests"
@@ -134,13 +134,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.social.list]]
         icon = "fab fa-github-square"
-        url = "https://github.com/codewithbas"
-        title = "/codewithbas"
+        url = "https://github.com/xristostsilis"
+        title = "/xristostsilis"
         [[params.social.list]]
         icon = "fab fa-linkedin"
-        url = "https://linkedin.com/in/bascodes"
-        title = "/in/bascodes"
+        url = "https://linkedin.com/in/xristostsilis"
+        title = "/in/xristostsilis"
         [[params.social.list]]
         icon = "fab fa-twitter-square"
-        url = "https://twitter.com/bascodes"
-        title = "@bascodes"
+        url = "https://twitter.com/xristostsilis"
+        title = "@xristostsilis"
