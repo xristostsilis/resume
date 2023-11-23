@@ -18,7 +18,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
         name = "Christos Tsiligiannis"
         tagline = "Resume"
-        avatar = "unnamed.jpg"
+        avatar = "xristostsilis.jpg"
 
     [params.contact]
         enable = true
