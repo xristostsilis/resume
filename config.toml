@@ -2,12 +2,12 @@
 
 baseURL = "https://resume-demo.bas.work/"
 languageCode = "en"
-title = "John Doe"
+title = "Christos Tsiligiannis"
 enableGitInfo = false
 googleAnalytics = "UA-XXXXXXX-Y"
 
 [params]
-    author = "John Doe"
+    author = "Christos Tsiligiannis"
     description = "Demo Resume"
     og_image = "better-software.png"
     twitterName = "@bascodes"
@@ -16,7 +16,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.profile]
         enable = true
-        name = "John Doe"
+        name = "Christos Tsiligiannis"
         tagline = "Demo Resume"
         avatar = "bas-steins-2.jpg"
 
