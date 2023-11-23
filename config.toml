@@ -8,22 +8,22 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 [params]
     author = "Christos Tsiligiannis"
-    description = "Demo Resume"
+    description = "Resume"
     og_image = "better-software.png"
-    twitterName = "@bascodes"
+    twitterName = "@xristostsilis"
     ghRepo = "https://github.com/codewithbas/resume/"
     hugoRepo = "https://github.com/gohugoio/hugo/"
 
     [params.profile]
         enable = true
         name = "Christos Tsiligiannis"
-        tagline = "Demo Resume"
-        avatar = "bas-steins-2.jpg"
+        tagline = "Resume"
+        avatar = "unnamed.jpg"
 
     [params.contact]
         enable = true
 
-        location = "Somewhere in the world"
+        location = "Patras, Greece"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
@@ -31,8 +31,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         text = "confidential"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
-        url = "mailto:mail@example.org"
-        text = "mail@example.org"
+        url = "mailto:xristostsilis@gmail.com"
+        text = "xristostsilis@gmail.com"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "https://bas.bio"
@@ -45,18 +45,18 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "Python"
         [[params.skills.list]]
-        title = "Lua"
+        title = "C"
         [[params.skills.list]]
-        title = "LISP"
+        title = "Html, CSS, JS, NodeJS"
 
 
     [params.education]
         enable = true
 
         [[params.education.list]]
-        degree = "Master of Desaster"
-        university = "University of Life"
-        dates = "1990-present"
+        degree = "Master of Electrical and Computer Engineering"
+        university = "University of Patras"
+        dates = "2016-2023"
 
 
     [params.awards]
@@ -72,7 +72,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.languages.list]]
-        name = "Klingon"
+        name = "Greek"
         level = "Fluent"
 
         [[params.languages.list]]
@@ -84,24 +84,24 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.interests.list]]
-        name = "Counting Sheeps"
+        name = "Travelling"
 
 
     [params.summary]
         enable = true
-        text = "I am the 10 eggs developer you are looking for."
+        text = "I am the guy your grandma calls when something needs fixing"
 
 
     [params.experience]
         enable = true
 
         [[params.experience.list]]
-        title = "Intern"
-        dates = "2000 - Present"
-        company = "Compuglobal Hyper Mega Net"
-        details = "Increased the baudrate for comic book guy"
+        title = "job"
+        dates = "2020 - Present"
+        company = "Bavaria"
+        details = "Sales, program manager"
         [[params.experience.list.items]]
-        details = "Took buttery notes"
+        details = "Trying to be awesome"
 
 
 
