@@ -18,7 +18,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
         name = "Christos Tsiligiannis"
         tagline = "Resume"
-        avatar = "xristostsilis.jpg"
+        avatar = "xristostsilis2.jpg"
 
     [params.contact]
         enable = true
@@ -33,10 +33,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         icon = "fas fa-envelope-square"
         url = "mailto:xristostsilis@gmail.com"
         text = "xristostsilis@gmail.com"
-        [[params.contact.list]]
-        icon = "fas fa-globe"
-        url = "https://bas.bio"
-        text = "My links on the web"
+        
 
 
     [params.skills]
