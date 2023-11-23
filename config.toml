@@ -121,13 +121,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.information.list]]
         title = "Papers"
         [[params.information.list.items]]
-        details = "2018 · Lorem Ipsum"
+        details = "none"
         [[params.information.list.items]]
-        details = "2016 · Sed Fringilla"
+        details = "none"
 
         [[params.information.list]]
         title = "Interests"
-        details = "Cooking, Beekeeping, Cycling"
+        details = "Cooking, Swimming, Cycling"
 
     [params.social]
         enable = true
