@@ -106,10 +106,10 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.projects.list]]
-        title = "5g Router"
-        meta = "GitHub project"
-        url = "https://github.com/codewithbas/resume"
-        tagline = "A resume with a free PDF generator"
+        title = "DIY 5G Router"
+        meta = "ADSLgr forum"
+        url = "https://www.adslgr.com/forum/threads/1250877-%CE%A0%CE%B1%CF%84%CE%AD%CE%BD%CF%84%CE%B5%CF%82-%CE%B5%CE%BE%CE%BF%CF%80%CE%BB%CE%B9%CF%83%CE%BC%CE%BF%CF%8D"
+        tagline = "The best DIY 5G router"
 
 
     [params.information]
