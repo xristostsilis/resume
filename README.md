@@ -1,22 +1,9 @@
-# The resume that builds itself
+# An awesome resume
 
 If you want a good looking resume, look no further.
 
-Just clone that repo, edit `config.toml` and follow the instructions on this blog post to get a nice looking online resume with automated PDFs.
+Just clone that repo, edit `config.toml`.
 
-For a detailled breakdown, head over to my [blog post](https://bas.codes/posts/github-actions-resume)
-
-Here is what you need:
-
-- An account on netlify (free)
-- An account on pdf.co (free credits available)
-- a domain name 
-
-## How it looks
-
-![](screenshot.png)
-
-[https://resume-demo.bas.work](https://resume-demo.bas.work)
 
 
 ## Credits
